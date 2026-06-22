@@ -40,6 +40,5 @@ Recommendation:
 -Great Job! Your password meets all requirements.
 
 ###Screenshot:
-<img width="497" height="152" alt="image" src="https://github.com/user-attachments/assets/16afe7e1-a477-46bd-a2fc-a76f1f833203" />
-
+<img width="475" height="187" alt="image" src="https://github.com/user-attachments/assets/58ea8977-894c-45da-a4b1-6d01fb67a387" />
 
