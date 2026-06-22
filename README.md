@@ -31,7 +31,7 @@ python password_strength analyzer.py
 - Password generator
 - Password breach checking
 
-##Example
+## Example
 Password: P@ssword123
 
 Strenth: Strong
